@@ -1,4 +1,4 @@
-# Turbulence-Model
+# turbulence_model.py
 Note: The program must be run using the Turtle graphics library in Python. For more information about Turtle, visit the official [Turtle documentation](https://www.turtle.ox.ac.uk/). 
 
 ## Objective
